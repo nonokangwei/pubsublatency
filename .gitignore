@@ -1,1 +1,5 @@
 .venv
+items.json
+serviceaccount.json
+test.json
+samplelog.json
